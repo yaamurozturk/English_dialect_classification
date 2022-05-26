@@ -1,6 +1,8 @@
 # English dialect classification
-This project focuses on the classification of the English language according to the chosen dialects. Project made for a course name I don't remember. 
+This project focuses on the classification of the English language according to the chosen dialects. 
+Project made for a course name I don't remember :d
 Made by me, Katia Kolos, Julie Nguyen and Oscar Moreno Escobar. 
+
 Professor: Alice Missud
 
 Résumé
