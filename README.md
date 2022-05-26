@@ -1,6 +1,7 @@
 # English dialect classification M2
 This project focuses on the classification of the English language according to the chosen dialects. 
-Project made for a course name I don't remember :d. All results and images are in the notebook file.
+Project made for a course name I don't remember :d. All results and images are in the notebook file. 
+
 Made by me, Katia Kolos, Julie Nguyen and Oscar Moreno Escobar. 
 
 Professor: Alice Missud
